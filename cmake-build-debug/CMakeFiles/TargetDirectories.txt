@@ -1,0 +1,3 @@
+/home/linux/CLionProjects/HomeworkEsame/cmake-build-debug/CMakeFiles/HomeworkEsame.dir
+/home/linux/CLionProjects/HomeworkEsame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/linux/CLionProjects/HomeworkEsame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

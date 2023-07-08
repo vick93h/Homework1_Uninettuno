@@ -1,0 +1,12 @@
+# ninja log v5
+46	75	1688846615087422508	HomeworkEsame	ea6a7dccd5f79de9
+0	57	1688846267971210376	CMakeFiles/HomeworkEsame.dir/buffer_t.c.o	aef3b5d39c81cbae
+0	117	1688831905826709613	CMakeFiles/HomeworkEsame.dir/msg_t.c.o	9e73f9d01a193428
+0	63	1688846400060787903	CMakeFiles/HomeworkEsame.dir/main.c.o	42f1e1630d01636a
+1	46	1688846615055422111	CMakeFiles/HomeworkEsame.dir/queueLinkedList.c.o	18d0c88ec8b583df
+0	53	1688846711268620903	CMakeFiles/HomeworkEsame.dir/main.c.o	42f1e1630d01636a
+53	86	1688846711300621303	HomeworkEsame	ea6a7dccd5f79de9
+1	60	1688846730888866578	CMakeFiles/HomeworkEsame.dir/main.c.o	42f1e1630d01636a
+60	86	1688846730912866879	HomeworkEsame	ea6a7dccd5f79de9
+1	49	1688846869738615170	CMakeFiles/HomeworkEsame.dir/main.c.o	42f1e1630d01636a
+49	80	1688846869770615576	HomeworkEsame	ea6a7dccd5f79de9
